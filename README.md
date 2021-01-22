@@ -1,4 +1,4 @@
-# Real-World-Applications
+# Real-World-Application(s)
 This folder contains real world solution(s) that suit the needs of business applications
 
 
