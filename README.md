@@ -4,4 +4,4 @@ This folder contains real world solution(s) that suit the needs of different bus
 
 ---
 
-**Full Disclosure:** My experience related to these topics mentitoned above has been declared by their current state. I intend to continue to learn different areas of Data Analytics and Reporting including SQL Server, Data Intergration with SSIS, Python Scripting, Tableau Visualizations and Story Telling.
+**Full Disclosure:** My experience related to these topics mentitoned above has been declared by their current state. I intend to continue to learn different areas of Data Analytics and Reporting including SQL Server, Data Intergration with SSIS, Python Scripting, Tableau Visualizations and Data Presentation.
