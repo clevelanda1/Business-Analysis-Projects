@@ -1,7 +1,6 @@
 # Real-World-Application(s)
-This folder contains a real world project solution that suits the needs of business applications
 
+This folder contains a real world project that suits the needs of a business application. This application includes a comprehensive understaning of how data flows through different stages and is being stored and manipulated until its time for transformation. This repository pulls experience from all other repositories to demonstrate a practical workflow.
 
 ---
 
-**Full Disclosure:** My experience related to these topics mentitoned above has been declared by their current state. I intend to continue to learn different areas of Data Analytics and Reporting including SQL Server, Data Intergration with SSIS, Python Scripting, Tableau Visualizations and Data Presentation.
