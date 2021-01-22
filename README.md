@@ -1,5 +1,5 @@
 # Real-World-Application(s)
-This folder contains a real world solution that suits the needs of business applications
+This folder contains a real world project solution that suits the needs of business applications
 
 
 ---
