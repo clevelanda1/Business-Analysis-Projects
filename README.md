@@ -4,7 +4,7 @@ This folder contains a project that meets the needs of a real world business app
 
 ## Purpose
 
-Demonstrate the ability to asses a business need, elicit requirements and information, and document and determine a viable solution for each business case.
+Demonstrate the ability to asses a business need, elicit requirements and information, and document and determine a viable solutions for each business case.
 
 ## List of Projects
 
