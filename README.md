@@ -22,7 +22,7 @@ __Business Case - Software Application Management System__
    
 >### Business Processes
 
-__Nicole Designs Interior Decoration - Reservation Planning System__ 
+__Nicole Designs, Interior Decoration - Reservation Planning System__ 
 
 - __Project Scope:__
    A small buisness owner who provides interior decoration design services for her clients is currently high in demand yet unstructured. The proposal presents a methodical, yet practical solution for a single individual to asisst with systematically scheduling clients through a perpetual reservation system
