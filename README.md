@@ -10,7 +10,7 @@ Demonstrate the ability to asses a business need, elicit requirements and inform
 
 ### Business Systems
 
-__Cruise Control, LLC - Web Development + Software Management System__ (Active)
+>__Cruise Control, LLC - Web Development + Software Management System__ (Active)
 
 - __Project Scope:__
    Cruise Control is a small service company requesting to develop a web application that will be integrated with a third-party software management application. The proposal        presents a cost-effective approach, provide a scalable feature for its customers and a platform for its clients to launch as host for the company. The system implemented        should be designed as a web application integrated with an external management and processing system. 
@@ -18,7 +18,7 @@ __Cruise Control, LLC - Web Development + Software Management System__ (Active)
 __Business Case - Software Application Management System__
 
 - __Project Scope:__
-   A small moving truck company is looking to reconstruct his business model to attain higher profit margins and market-security. The process to be defined will constitute a        partnership agreement between the moving truck company and the apartment complex itself. The proposal presents a software application to be implemented, the software            application will receive data through an API from the current systems being utilized by the apartment complex.
+   A small moving truck company is looking to reconstruct his business model to attain higher profit margins and market-security. The process to be defined will constitute a        partnership agreement between the moving truck company and the apartment complex itself. The proposal presents a software application to be implemented, the software            application will receive data through an API from the current systems being utilized by the apartment complex.>
    
 ### Business Processes
 
