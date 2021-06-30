@@ -25,7 +25,7 @@ __Business Case - Software Application Management System__
 __Nicole Designs Interior Decoration - Reservation Planning System__ 
 
 - __Project Scope:__
-   This entrepeneur enables a small buisness that provides interior decoration services for her clients. The proposal presents a methodical, yet practical solution for a            single individual to asisst with systematically scheduling clients through a perpetual reservation system.
+   A small buisness owner enables a list of services that provides interior decoration designs for her clients. The proposal presents a methodical, yet practical solution for a    single individual to asisst with systematically scheduling clients through a perpetual reservation system.
 
 
 
