@@ -21,7 +21,7 @@ __Nicole Design, Interior Decoration - Reservation Planning System__
 __Business Case, Local Business Owner - Software Application Management System__
 
 - __Project Scope:__
-   A small moving truck company is looking to reconstruct his business model to attain higher profit margins and market-security. The process to be defined will constitute a        partnership agreement between the moving truck company and the apartment complex itself. The proposal presents a software application to be implemented, that will receive        data through an API from the data infrastructure provided by the apartment complex.## Define Project Outline
+   A small moving truck company is looking to reconstruct his business model to attain higher profit margins and market-security. The process to be defined will constitute a        partnership agreement between the moving truck company and the apartment complex itself. The proposal presents a software application to be implemented, the software            application will receive data through an API from the current systems being utilized by the apartment complex.
 
 ## Define Project Criteria
 
