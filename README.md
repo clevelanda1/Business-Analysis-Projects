@@ -1,6 +1,4 @@
 # Real-World-Application(s)
 
-This folder contains a project that meets the needs of a real world business application. This includes a comprehensive understaning of how data flows through different stages and is being stored and manipulated until its transformed. This repository pulls experience from all other repositories to demonstrate a practical workflow.
-
----
+This folder contains a project that meets the needs of a real world business applications. This includes a comprehensive understaning of how business analyst document the following systems to define a process. This repository demonstrates the experience working on small personal projects as well, with inspiring entrepeneurs and small business owners.
 
