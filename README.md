@@ -16,7 +16,7 @@ __Cruise Control, LLC - Web Development + Software Management System__ (Active)
 __Nicole Design, Interior Decoration - Reservation Planning System__ 
 
 - __Project Scope:__
-   This entrepeneur enables a small buisness that provides interior decoration services for her clients. The proposal presents an methodical, yet practical solution for a          single individual to asisst with systematically scheduling clients through a perpetual reservation system.
+   This entrepeneur enables a small buisness that provides interior decoration services for her clients. The proposal presents a methodical, yet practical solution for a          single individual to asisst with systematically scheduling clients through a perpetual reservation system.
 
 __Business Case, Local Business Owner - Software Application Management System__
 
