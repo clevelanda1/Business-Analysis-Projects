@@ -6,16 +6,6 @@ This folder contains a project that meets the needs of a real world business app
 
 Demonstrate the ability to asses a business need, elicit requirements and information, and document and determine a viable solution for each business case.
 
-## Define Project Outline
-
-- Scope of Work Documentation
-- "As Is/To Be" Documentation
-- Impact Analysis Documentation
-- Business Specification
-- Desired Evaluation Report
-- Functional Specification
-- Technical Specification
-
 ## List of Projects
 
 __Cruise Control, LLC - Web Development + Software Management System__ (Active)
@@ -30,5 +20,17 @@ __Nicole Design, Interior Decoration - Reservation Planning System__
 
 __Business Case, Local Business Owner - Software Application Management System__
 
- - __Project Scope:__
-   A small moving truck company is looking to reconstruct his business model to attain higher profit margins and market-security. The process to be defined will constitute a        partnership agreement between the moving truck company and the apartment complex itself. The proposal presents a software application to be implemented, that will receive        data through an API from the data infrastructure provided by the apartment complex.
+- __Project Scope:__
+   A small moving truck company is looking to reconstruct his business model to attain higher profit margins and market-security. The process to be defined will constitute a        partnership agreement between the moving truck company and the apartment complex itself. The proposal presents a software application to be implemented, that will receive        data through an API from the data infrastructure provided by the apartment complex.## Define Project Outline
+
+## Define Project Criteria
+
+- Scope of Work Documentation
+- "As Is/To Be" Documentation
+- Impact Analysis Documentation
+- Business Specification
+- Desired Evaluation Report
+- Functional Specification
+- Technical Specification
+   
+
