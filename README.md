@@ -18,6 +18,7 @@ Demonstrate the ability to asses a business need, elicit requirements and inform
 
 ## List of Projects
 
-^ Cruise Control, LLC - UI Web Application + Software Management System
+__Cruise Control, LLC - UI Web Application + Software Management System
+
 __Project Scope:__
 Cruise Control is a small service company requesting to develop a web application that will be integrated with a third-party software management application. The proposal presents a cost-effective approach, provide a scalable feature for its customers and a platform for its clients to launch as host for the company. The system implemented should be designed as a web application integrated with an external management and processing system. 
