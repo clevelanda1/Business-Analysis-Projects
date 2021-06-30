@@ -4,7 +4,7 @@ This folder contains a project that meets the needs of a real world business app
 
 ## Purpose
 
-Demonstrate my ability to asses a business need, elicit requirements and information, document and determine a viable solution for each business case.
+Demonstrate the ability to asses a business need, elicit requirements and information, document and determine a viable solution for each business case.
 
 ## Define Project Outline
 
