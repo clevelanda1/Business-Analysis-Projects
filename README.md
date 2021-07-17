@@ -7,14 +7,6 @@ This folder contains a project that meets the needs of a real world business app
 Demonstrate the ability to asses a business need, elicit requirements and information, and document and determine a viable solutions for each business case.
 
 ## List of Projects
-
->### Business Systems 
-
-__Business Case__
-Software Application (Future)
-
-- __Project Scope:__
-   A small company is looking to reconstruct its business model to attain higher profit margins and market-security. The process to be defined will constitute a                    partnership agreement between the company itself and a small residential property owner. The proposal presents a software application that provides access to the adjoining      system. One of the key feautres is the application will receive data connectivity through an API from the current systems provided by the residential property owner,            giving the company access to perform its services more efficientyly.
    
 >### Business Processes
 
@@ -24,7 +16,14 @@ Web Development and Software Management System (Current)
 - __Project Scope:__
    Cruise Control is a small service company requesting to develop a web application that will be integrated with a third-party software management application. The proposal        presents a cost-effective approach, provide a scalable feature for its customers and a platform for its clients to launch as host for the company. The system implemented        should be designed as a web application integrated with an external management and processing system.
 
+>### Business Systems 
 
+__Business Case__
+Software Application (Future)
+
+- __Project Scope:__
+   A small company is looking to reconstruct its business model to attain higher profit margins and market-security. The process to be defined will constitute a                    partnership agreement between the company itself and a small residential property owner. The proposal presents a software application that provides access to the adjoining      system. One of the key feautres is the application will receive data connectivity through an API from the current systems provided by the residential property owner,            giving the company access to perform its services more efficientyly.
+   
 ## Define Project Criteria
 
 - Scope of Work Documentation
