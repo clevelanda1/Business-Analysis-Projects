@@ -10,7 +10,7 @@ Demonstrate the ability to asses a business need, elicit requirements and inform
    
 >### Business Processes
 
-__Cruise Control, LLC__
+__Cruise Control, Business Case__
 Web Development and Software Management System (Current)
 
 - __Project Scope:__
@@ -18,7 +18,7 @@ Web Development and Software Management System (Current)
 
 >### Business Systems 
 
-__Business Case__
+__MAS Commercial Services, Business Case__
 Software Platform Application (Future)
 
 - __Project Scope:__
