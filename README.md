@@ -14,7 +14,7 @@ __Business Case__
 Software Application (Future)
 
 - __Project Scope:__
-   A small company is looking to reconstruct its business model to attain higher profit margins and market-security. The process to be defined will constitute a                    partnership agreement between the company and a commercial property owner. The proposal presents a software application to be produced, one of the key feautres is the            application will receive data through an API from the current systems being utilized by the property owner giving the company access to perform its services more                efficientyly.
+   A small company is looking to reconstruct its business model to attain higher profit margins and market-security. The process to be defined will constitute a                    partnership agreement between the company itself and a small residential property owner. The proposal presents a software application that provides access to the adjoining      system. One of the key feautres is the application will receive data connectivity through an API from the current systems provided by the residential property owner,            giving the company access to perform its services more efficientyly.
    
 >### Business Processes
 
