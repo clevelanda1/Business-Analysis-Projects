@@ -19,7 +19,7 @@ Web Development and Software Management System (Current)
 >### Business Systems 
 
 __Business Case__
-Software Application (Future)
+Software Platform Application (Future)
 
 - __Project Scope:__
    A small company is looking to reconstruct its business model to attain higher profit margins and market-security. The process to be defined will constitute a                    partnership agreement between the company itself and a small residential property owner. The proposal presents a software application that provides access to the adjoining      system. One of the key feautres is the application will receive data connectivity through an API from the current systems provided by the residential property owner,            giving the company access to perform its services more efficientyly.
